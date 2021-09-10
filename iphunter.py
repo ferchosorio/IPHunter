@@ -1,5 +1,3 @@
-# IP_Hunter by System Failure
-# https://informaticayhacking.com
 import json
 import requests
 import time
@@ -177,4 +175,3 @@ elif len(ip) == 0:
     so()
     banner()
     proc()
-# Informática y Hacking © 2020
